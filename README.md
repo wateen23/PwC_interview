@@ -3,9 +3,9 @@
 Welcome to Wateen's Quiz. In order to have a pleasant experience using my programme, please refer to the following step by step instructions:
 
 1. Clone repository
-    `git clone [LINK]`
+    `git clone https://github.com/wateen23/PwC_interview.git`
 2. navigate into the directory with this command:
-    `cd [FileName]`
+    `cd PwCInterviewTask`
 3. copy and paste the following snippet into the terminal:
     `streamlit run pwc_mcq_app.py`
 
